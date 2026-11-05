@@ -119,6 +119,8 @@ body {
     padding: 20px;
     font-family: 'Caveat' , cursive , sans-serif;
     font-size: 1.2rem;
+    max-height: 85vh; 
+    overflow-y: auto;
     color: #15411c;
     box-shadow: 0 4px 12px rgba(21, 65, 28, 0.2);
     white-space: pre-wrap;
